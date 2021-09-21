@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string-array name="unit_names">
+    <item>Celsius</item>
+    <item>Farenheit</item>
+    <item>Kelvin</item>
+  </string-array>
+  
+  <string-array name="unit_values">
+    <item>metric</item>
+    <item>imperial</item>
+    <item></item>
+  </string-array>
+
+  <string-array name="cities">
+    <item>Razvilka,RU</item>
+    <item>Moscow,RU</item>
+    <item>Firozpur Jhirka,IN</item>
+    <item>Kathmandu,NP</item>
+    <item>Kiev,UA</item>
+    <item>Pokhara,NP</item>
+    <item>Merida,VE</item>
+    <item>Delhi,IN</item>
+    <item>Reshetnikovo,RU</item>
+    <item>Ciudad Bolivar,VE</item>
+    <item>Marfino,RU</item>
+    <item>Zhukovskiy,RU</item>
+    <item>Reutov,RU</item>
+    <item>Kurovskoye,RU</item>
+    <item>Zheleznodorozhnyy,RU</item>
+    <item>Golitsyno,RU</item>
+    <item>Petrozavodsk,RU</item>
+    <item>Saint Petersburg,RU</item>
+    <item>Klimovsk,RU</item>
+    <item>Novosibirsk,RU</item>
+    <item>Donetsk,UA</item>
+    <item>Istra,RU</item>
+    <item>Bakhchysaray,UA</item>
+    <item>Chekhov,RU</item>
+    <item>Lyubuchany,RU</item>
+    <item>Vostryakovo,RU</item>
+    <item>Boryspil,UA</item>
+    <item>Dubna,RU</item>
+    <item>Druzhba,RU</item>
+    <item>Bronnitsy,RU</item>
+    <item>Dzerzhinskiy,RU</item>
+    <item>Lytkarino,RU</item>
+    <item>Mytishchi,RU</item>
+    <item>Pushkino,RU</item>
+    <item>Pravdinskiy,RU</item>
+    <item>Zelenogradskiy,RU</item>
+    <item>Ashukino,RU</item>
+    <item>Khotkovo,RU</item>
+    <item>Semkhoz,RU</item>
+    <item>Sergiyev Posad,RU</item>
+    <item>Arsaki,RU</item>
+    <item>Strunino,RU</item>
+    <item>Aleksandrov,RU</item>
+    <item>Karabanovo,RU</item>
+    <item>Kirzhach,RU</item>
+    <item>Orekhovo Zuyevo,RU</item>
+    <item>Likino Dulevo,RU</item>
+    <item>Davydovo,RU</item>
+    <item>Ilinskiy Pogost,RU</item>
+    <item>Yegoryevsk,RU</item>
+    <item>Fosforitnyy,RU</item>
+    <item>Khorlovo,RU</item>
+    <item>Lopatinskiy,RU</item>
+    <item>Malino,RU</item>
+    <item>Mikhnevo,RU</item>
+    <item>Mikhnevo,RU</item>
+    <item>Stolbovaya,RU</item>
+    <item>Kubinka,RU</item>
+    <item>Povarovo,RU</item>
+    <item>Iksha,RU</item>
+    <item>Dmitrov,RU</item>
+    <item>Skoropuskovskiy,RU</item>
+    <item>Mamontovka,RU</item>
+    <item>Shchebetovka,UA</item>
+    <item>New Delhi,IN</item>
+    <item>Faridabad,IN</item>
+    <item>Palwal,IN</item>
+    <item>Hodal,IN</item>
+    <item>Kosi,IN</item>
+    <item>Chhata,IN</item>
+    <item>Mathura,IN</item>
+    <item>Gokul,IN</item>
+    <item>Farah,IN</item>
+    <item>Agra,IN</item>
+    <item>Kiraoli,IN</item>
+    <item>Fatehpur Sikri,IN</item>
+    <item>Bharatpur,IN</item>
+    <item>Mahwah,IN</item>
+    <item>Dausa,IN</item>
+    <item>Basi,IN</item>
+    <item>Jaipur,IN</item>
+    <item>Manoharpur,IN</item>
+    <item>Shahpura,IN</item>
+    <item>Ciudad Guayana,VE</item>
+    <item>Upata,VE</item>
+    <item>Borovoy,RU</item>
+    <item>Vostochnyy,RU</item>
+    <item>El Vigia,VE</item>
+    <item>Ejido,VE</item>
+    <item>Vnukovo,RU</item>
+    <item>Obninsk,RU</item>
+    <item>Mstikhino,RU</item>
+    <item>Babynino,RU</item>
+    <item>Navlya,RU</item>
+    <item>Altukhovo,RU</item>
+    <item>Kokorevka,RU</item>
+    <item>Suzemka,RU</item>
+    <item>Druzhba,UA</item>
+    <item>Yampil,UA</item>
+    <item>Bobrovytsya,UA</item>
+    <item>Khimki,RU</item>
+    <item>Krasnogorsk,RU</item>
+    <item>Nemchinovka,RU</item>
+    <item>Vatutinki,RU</item>
+    <item>Yasnogorsk,RU</item>
+    <item>Zasechnoye,RU</item>
+    <item>Russkiy Kameshkir,RU</item>
+    <item>Alekseyevka,RU</item>
+    <item>Oral,KZ</item>
+    <item>Bayganin,KZ</item>
+    <item>Kotputli,IN</item>
+    <item>Behror,IN</item>
+    <item>Bawal,IN</item>
+    <item>Dharuhera,IN</item>
+    <item>Gurgaon,IN</item>
+    <item>Naberezhnyye Chelny,RU</item>
+    <item>Minsk,BY</item>
+    <item>Bugulma,RU</item>
+    <item>Karabash,RU</item>
+    <item>Ussuriysk,RU</item>
+    <item>Vorokhta,UA</item>
+    <item>Varanasi,IN</item>
+    <item>Ramnagar,IN</item>
+    <item>Mughal Sarai,IN</item>
+    <item>Satna,IN</item>
+    <item>Panna,IN</item>
+    <item>Bulandshahr,IN</item>
+    <item>Shikarpur,IN</item>
+    <item>Dibai,IN</item>
+    <item>Naraura,IN</item>
+    <item>Sahaswan,IN</item>
+    <item>Ujhani,IN</item>
+    <item>Kakrala,IN</item>
+    <item>Usehat,IN</item>
+    <item>Jalalabad,IN</item>
+    <item>Allahganj,IN</item>
+    <item>Hardoi,IN</item>
+    <item>Sandila,IN</item>
+    <item>Malihabad,IN</item>
+    <item>Kakori,IN</item>
+    <item>Lucknow,IN</item>
+    <item>Goshainganj,IN</item>
+    <item>Satrikh,IN</item>
+    <item>Zaidpur,IN</item>
+    <item>Tikaitnagar,IN</item>
+    <item>Bhairahawa,NP</item>
+    <item>Bharatpur,NP</item>
+    <item>Kirtipur,NP</item>
+    <item>Patan,NP</item>
+    <item>Stavyshche,UA</item>
+    <item>Brovary,UA</item>
+    <item>Semypolky,UA</item>
+    <item>Barvikha,RU</item>
+    <item>Petrovo Dalneye,RU</item>
+    <item>Nikolina Gora,RU</item>
+    <item>Zvenigorod,RU</item>
+    <item>Tuchkovo,RU</item>
+    <item>Kratovo,RU</item>
+    <item>Konobeyevo,RU</item>
+    <item>Voskresensk,RU</item>
+    <item>Rechitsy,RU</item>
+    <item>Monino,RU</item>
+    <item>Obukhovo,RU</item>
+    <item>Imeni Vorovskogo,RU</item>
+    <item>Elektrostal,RU</item>
+    <item>Pavlovskiy Posad,RU</item>
+    <item>Drezna,RU</item>
+    <item>Opalikha,RU</item>
+    <item>Novopetrovskoye,RU</item>
+    <item>Verbilki,RU</item>
+    <item>Ashitkovo,RU</item>
+    <item>Shaturtorf,RU</item>
+    <item>Bolshiye Vyazemy,RU</item>
+    <item>Zhavoronki,RU</item>
+    <item>Medvezhyegorsk,RU</item>
+    <item>Obolensk,RU</item>
+    <item>Serpukhov,RU</item>
+    <item>Pyaozerskiy,RU</item>
+    <item>Loukhi,RU</item>
+    <item>Konakovo,RU</item>
+    <item>Novozavidovskiy,RU</item>
+    <item>Kozlovo,RU</item>
+    <item>Loni,IN</item>
+    <item>Mitzpe Ramon,IL</item>
+    <item>Raipur,IN</item>
+    <item>Terny,UA</item>
+    <item>Donskoye,RU</item>
+    <item>Yaremche,UA</item>
+    <item>Plotnikovo,RU</item>
+    <item>Novopodrezkovo,RU</item>
+    <item>Skhodnya,RU</item>
+    <item>Zelenograd,RU</item>
+    <item>Alabushevo,RU</item>
+    <item>Petrodvorets,RU</item>
+    <item>Strelna,RU</item>
+    <item>Horad Smalyavichy,BY</item>
+    <item>Horad Zhodzina,BY</item>
+    <item>Namche Bazar,NP</item>
+    <item>Udaipur,IN</item>
+    <item>Pali,IN</item>
+    <item>Jodhpur,IN</item>
+  </string-array>
+</resources>

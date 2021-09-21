@@ -1,0 +1,33 @@
+ if ((deg >= 348.75m && deg < 360m) && (deg >= 0m && deg < 11.25m))
+                return "N";
+            else if ((deg >= 11.25m && deg < 33.75m))
+                return "NNE";
+            else if ((deg >= 33.75m && deg < 56.25m))
+                return "NE";
+            else if ((deg >= 56.25m && deg < 78.75m))
+                return "ENE";
+            else if ((deg >= 78.75m && deg < 101.25m))
+                return "E";
+            else if ((deg >= 101.25m && deg < 123.75m))
+                return "ESE";
+            else if ((deg >= 123.75m && deg < 146.25m))
+                return "SE";
+            else if ((deg >= 146.25m && deg < 168.75m))
+                return "SSE";
+            else if ((deg >= 168.75m && deg < 191.25m))
+                return "S";
+            else if ((deg >= 191.25m && deg < 213.75m))
+                return "SSW";
+            else if ((deg >= 213.75m && deg < 236.25m))
+                return "SW";
+            else if ((deg >= 236.25m && deg < 258.75m))
+                return "WSW";
+            else if ((deg >= 258.75m && deg < 281.25m))
+                return "W";
+            else if ((deg >= 281.25m && deg < 303.75m))
+                return "WNW";
+            else if ((deg >= 303.75m && deg < 326.25m))
+                return "NW";
+            else if ((deg >= 326.25m && deg < 348.75m))
+                return "NNW";
+            return "";
