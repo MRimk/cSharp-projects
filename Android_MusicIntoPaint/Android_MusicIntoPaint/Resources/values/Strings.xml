@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Android_MusicIntoPaint</string>
+
+
+  <!-- Prefs -->
+  <string name="pref_color">Color</string>
+  <string name="ColorSpaceName">Default Color Space</string>
+  <string name="summary_csn">Current color space</string>
+</resources>
