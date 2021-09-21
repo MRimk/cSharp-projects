@@ -1,0 +1,20 @@
+c:\users\antonio\documents\visual studio 2015\Projects\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe.config
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe.config
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.pdb
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Form1.resources
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.exe
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.pdb
+F:\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe.config
+F:\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.exe
+F:\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.pdb
+F:\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe
+F:\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.pdb
+F:\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csprojResolveAssemblyReference.cache
+F:\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Form1.resources
+F:\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Properties.Resources.resources
+F:\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csproj.GenerateResource.Cache
+F:\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint Clone.exe.config
